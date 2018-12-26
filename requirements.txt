@@ -1,0 +1,10 @@
+Modules used:
+
+nltk
+csv
+pickle
+math
+numpy
+re
+matplotlib
+
